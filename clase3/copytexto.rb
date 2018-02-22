@@ -1,1 +1,3 @@
-File.open("textovacio.txt", 'w') {|file| file.write("texto.txt")}
+File.write("textovacio.txt", File.read("texto.txt")
+
+Puts File.open("textovacio.txt")
