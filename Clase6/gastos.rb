@@ -25,20 +25,7 @@ class Costos
        arrfecha = fecha.split("-").map {|c| c.to_i}
        fechafinal = Date.new(arrfecha[0], arrfecha[1], arrfecha[2])
        @ingresos << {cantidad: cantidad, fecha: fecha, descripcion: descripcion }
-       if cantidad <= 0
-       puts "No tiene ingresos"
-       else
-       puts "Ingreso exitoso"
-       end
-    end
-
-
-end
-
-
-
-
-
+   end
 
 g1 = Costos.new
 hola = g1.ingresos(0, "2018-02-26", "Servicios")
