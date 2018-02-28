@@ -1,4 +1,5 @@
 
 arr = IO.readlines "students.txt"
-nuevo = arr.pop(2)
-puts nuevo
+puts 5.times do arr.pop(2)
+end
+puts
