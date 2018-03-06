@@ -1,0 +1,18 @@
+C001,Lasagna,25000,true
+C002,Punta de anca,35000,true
+C003,Sancocho,2000,true
+C004,Frijoles,17000,true
+C005,Pasta,25000,false
+C006,Carimañolas,25000,false
+C007,Camaron,35000,true
+C008,Pulpo,2000,true
+B001,Limonada Natural,17000,true
+B002,Café,25000,true
+B003,Te Helado,25000,false
+B004,Limonada de coco,35000,true
+B005,Aguapanela,2000,truez
+V001,VinoTinto,17000,false
+V002,Sangría,25000,true
+V003,Lambrusco Centenario,2000,true
+V004,Montes Classic,17000,true
+V005,Luis Cañas,25000,false
